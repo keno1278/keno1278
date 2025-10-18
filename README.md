@@ -13,7 +13,7 @@
 
 ### 💡 About Me
 
-I’m a recent Data Analytics graduate from **George Brown College**, passionate about transforming raw data into business insights that drive growth and efficiency.  
+I’m a recent Data Analytics graduate from **Humber College**, passionate about transforming raw data into business insights that drive growth and efficiency.  
 Currently transitioning from my role in security operations into **data analytics and BI**, building real-world dashboards and data solutions that deliver measurable ROI.
 
 📊 Skilled in: **Power BI, SQL, Excel, Python (Pandas, NumPy, Matplotlib), and DAX**  
