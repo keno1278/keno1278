@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Meshack Oniera</h1>
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=keno1278&label=Profile%20Views&color=0e75b6&style=flat" alt="keno1278" /> 
+</p>
+
 <p align="center">
 🎯 <b>Data Analyst | Power BI | SQL | Excel | Python | Project Management</b><br>
 📍 Based in Toronto, Canada
