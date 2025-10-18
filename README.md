@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Meshack Oniera</h1>
 
-<!--
-**keno1278/keno1278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎯 <b>Data Analyst | Power BI | SQL | Excel | Python | Project Management</b><br>
+📍 Based in Toronto, Canada
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+I’m a recent Data Analytics graduate from **George Brown College**, passionate about transforming raw data into business insights that drive growth and efficiency.  
+Currently transitioning from my role in security operations into **data analytics and BI**, building real-world dashboards and data solutions that deliver measurable ROI.
+
+📊 Skilled in: **Power BI, SQL, Excel, Python (Pandas, NumPy, Matplotlib), and DAX**  
+📈 Certified in: **IBM Data Analyst, Certified ScrumMaster (CSM)**  
+🎯 Preparing for: **PL-300 (Power BI Data Analyst)** and **USAII Certified AI Engineer**
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tools |
+|----------|--------------|--------|
+| [📊 AdventureWorks Executive Sales Dashboard](https://github.com/keno1278/AdventureWorks-Sales-Dashboard) | End-to-end Power BI dashboard analyzing revenue, profit, and global sales trends using DAX and data modeling. | Power BI, DAX, Excel |
+| [🛡 Security ROI Dashboard](https://github.com/keno1278/Security-ROI-Dashboard) | Real company project tracking guard performance, theft reduction, and ROI impact for grocery stores. | Power BI, Excel |
+| [📈 Excel KPI Project](https://github.com/keno1278/Excel-KPI-Project) | Executive Excel dashboard summarizing customer, product, and profit KPIs with pivot-based automation. | Excel, Power Query |
+
+---
+
+### 🧠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-FAA61A?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0C4B33?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/meshackoniera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kenomeshack@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🌱 Current Goals
+- Finish **PL-300 Power BI certification**
+- Complete **USAII Certified AI Engineer** program
+- Build 2 more analytics projects for Canadian companies (TTC Ridership + E-commerce ROI)
+
+---
+
+⭐️ *“Turning data into decisions — one dashboard at a time.”*
