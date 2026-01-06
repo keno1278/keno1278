@@ -26,7 +26,7 @@ Currently transitioning from my role in security operations into **data analytic
 
 | Project | Description | Tools |
 |----------|--------------|--------|
-| [📊 AdventureWorks Executive Sales Dashboard](https://github.com/keno1278/AdventureWorks-Sales-Dashboard) | End-to-end Power BI dashboard analyzing revenue, profit, and global sales trends using DAX and data modeling. | Power BI, DAX, Excel |
+| 🛒 [MapleCart E-Commerce Analytics](https://github.com/keno1278/MapleCart-Ecommerce-Analytics) | End-to-end SQL analytics case study analyzing traffic acquisition, user engagement, product performance, and conversion funnels for a simulated e-commerce platform. | SQL, Analytics |
 | [🛡 Security ROI Dashboard](https://github.com/keno1278/Security-ROI-Dashboard) | Real company project tracking guard performance, theft reduction, and ROI impact for grocery stores. | Power BI, Excel |
 | [📈 Excel KPI Project](https://github.com/keno1278/Excel-KPI-Project) | Executive Excel dashboard summarizing customer, product, and profit KPIs with pivot-based automation. | Excel, Power Query |
 
